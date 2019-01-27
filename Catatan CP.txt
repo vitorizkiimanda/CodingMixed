@@ -1,0 +1,25 @@
+
+- 2 bilangan prima yang bersebalahan co prime
+
+1 2 3
+6 5 4
+7 8 9
+
+- pola tutup buka kurung , cari output valid selanjutnya
+
+misal input 6
+
+((()))
+
+(())()
+
+()(())
+
+()()()
+
+contoh  :
+input 4
+(())
+
+out put :
+()()

@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+    int genap,ganjil;
+
+    scanf("%d %d", &genap,&ganjil);
+
+    if(genap==ganjil || abs(genap-ganjil)==1) printf("YES\n");
+    else printf("NO\n");
+
+    return 0;
+}
+
